@@ -1,0 +1,15 @@
+Netflix / Media Dataset EDA Summary
+
+Movies vs TV Shows:
+type
+Movie      4
+TV Show    2
+
+Top Genres:
+listed_in
+Sci-Fi      3
+Thriller    3
+Drama       3
+Fantasy     1
+Crime       1
+Action      1
